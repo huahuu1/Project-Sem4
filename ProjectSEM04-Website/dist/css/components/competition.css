@@ -1,0 +1,16 @@
+section.competition .comp-title {
+  text-align: center;
+  background-image: url("../assets/images/pattern.jpg"); }
+  section.competition .comp-title .title-icon {
+    line-height: 1; }
+    section.competition .comp-title .title-icon img {
+      width: 20rem; }
+  section.competition .comp-title .title-text span {
+    font-family: "Playfair Display",Arial,Helvetica,sans-serif;
+    font-size: 4.5rem;
+    font-weight: 900; }
+
+section.competition .comp-img {
+  text-align: center; }
+  section.competition .comp-img img {
+    width: 80%; }
